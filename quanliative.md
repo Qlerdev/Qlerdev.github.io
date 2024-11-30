@@ -11,4 +11,4 @@
 - ในชีวิตประจำวัน
 การวัดจากลำดับ หรือเกรด A B+ B และ scales เช่น Easy Medium Hard
 
-*[Qualitative](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
+*[ที่มา](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*

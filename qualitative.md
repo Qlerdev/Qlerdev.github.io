@@ -26,8 +26,8 @@
 
 *[ที่มา](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
 
-*[My profile](https://qlerdev.github.io/)*
 
-6530200703 นายปุณกัณฑ์ ปุญสิริ 
+
+6530200703 นายปุณกัณฑ์ ปุญสิริ *[My profile](https://qlerdev.github.io/)*
 
 6530200339 นายภาณุพงศ์ ทองเชิด *[My buddy](https://6530200339.github.io/qualitative)*

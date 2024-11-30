@@ -4,6 +4,7 @@
   - ChatGPT               : การประเมินความปลอดภัยโดยไม่อิงตัวเลขที่แน่นอน แต่ใช้การวิเคราะห์เชิงพรรณนา เช่น การอธิบายความเสี่ยง ความรุนแรง หรือความสำคัญในเชิงคุณภาพ
   - Claude AI             : การวัดเชิงคุณภาพใน security เป็นการประเมินด้านความปลอดภัยโดยใช้คำอธิบายและระดับความรุนแรงแทนตัวเลขที่แน่นอน เช่น การจัดระดับความเสี่ยง การประเมินจุดอ่อนของ  
                             ระบบ โดยใช้คำบรรยายแทนการให้คะแนนตัวเลข
+    
   *[Trustnetinc](https://trustnetinc.com/qualitative-vs-quantitative/)*
   - ความหมาย              : Based on a person's percenption or judgement , deals with description
                             The goal is to come up with a short list of risks that need to be priortized above others.

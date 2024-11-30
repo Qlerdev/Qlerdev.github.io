@@ -1,5 +1,5 @@
 # Qualitative 
-  *[CISPP](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
+  *[CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
   - **ความหมาย**              : Measuring something without using numbers, using adjectives, scales, and grades, etc.
   - **ChatGPT**               : การประเมินความปลอดภัยโดยไม่อิงตัวเลขที่แน่นอน แต่ใช้การวิเคราะห์เชิงพรรณนา เช่น การอธิบายความเสี่ยง ความรุนแรง หรือความสำคัญในเชิงคุณภาพ
   - **Claude AI**             : การวัดเชิงคุณภาพใน security เป็นการประเมินด้านความปลอดภัยโดยใช้คำอธิบายและระดับความรุนแรงแทนตัวเลขที่แน่นอน เช่น การจัดระดับความเสี่ยง                                                 การประเมินจุดอ่อนของระบบ โดยใช้คำบรรยายแทนการให้คะแนนตัวเลข

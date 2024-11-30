@@ -25,4 +25,5 @@
 *[ที่มา](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
 
 6530200703 นายปุณกัณฑ์ ปุญสิริ 
+
 6530200339 นายภาณุพงศ์ ทองเชิด *[buddy](https://6530200339.github.io/qualitative)*

@@ -1,4 +1,4 @@
-# 6530200339 นายภาณุพงศ์ ทองเชิด
+# 6530200339 นายภาณุพงศ์ ทองเชิด *[buddy](6530200339.github.io)*
 # 6530200703 นายปุณกัณฑ์ ปุญสิริ
 
 ## คำศัพท์ทางด้าน Security 
@@ -7,3 +7,5 @@ Claude AI Quanliative = การวัดเชิงคุณภาพใน s
 
 ความหมายตามความเข้าใจของตัวเอง : เป็นคำที่ใข้ในการประเ่มินความปลอดภัยโดยวัดจากความคุณภาพเป็นตัววัด โดยไม่ใช้ตัวเลข เช่น การวัดจากลำดับ หรือแรงก์ A B+ B และ scales เช่น Easy Medium Hard เป็นต้น
 *[Quanliative](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*
+
+*[](https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)*

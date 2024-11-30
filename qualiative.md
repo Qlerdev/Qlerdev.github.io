@@ -1,4 +1,4 @@
-# 6530200339 นายภาณุพงศ์ ทองเชิด *[buddy](https://6530200339.github.io/qualiative)*
+# 6530200339 นายภาณุพงศ์ ทองเชิด *[buddy](https://6530200339.github.io/qualitative)*
 # 6530200703 นายปุณกัณฑ์ ปุญสิริ 
 
 ## Qualitative (https://www.isc2.org/certifications/cissp/cissp-student-glossary#q)

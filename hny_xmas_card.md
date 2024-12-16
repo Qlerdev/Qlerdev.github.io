@@ -1,2 +1,2 @@
-![back to my profile](https://qlerdev.github.io/)
+[back to my profile](https://qlerdev.github.io/)
 

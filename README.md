@@ -1,4 +1,4 @@
-[MERRY CHRISTMAS AND HNY CARD](https://qlerdev.github.io/card.md)
+[MERRY CHRISTMAS AND HNY CARD](https://qlerdev.github.io/card)
 # Qlerdev.github.io
 
 ![alt text](/img/IMG_20241024_214443.jpg)

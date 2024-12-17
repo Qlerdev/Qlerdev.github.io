@@ -8,7 +8,7 @@
 [ENCODE](https://stylesuxx.github.io/steganography/) by **Steganography**
 
 ---
-To : [Panupong Thongcherd](https://6530200339.github.io) (Panupong Thongcherd) and all of my friends that i've met.
+To : [Panupong Thongcherd](https://6530200339.github.io) **&** all of my friends that i've met.
 
 
 Sent : PUNNAKAN PUNSIRI 6530200703

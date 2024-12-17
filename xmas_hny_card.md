@@ -8,5 +8,5 @@
 [ENCODE](https://stylesuxx.github.io/steganography/) by **Steganography**
 
 ---
-[TO](https://6530200339.github.io)
+[TO MR.PANUPONG THONGCHERD ](https://6530200339.github.io)
 [BY] PUNNAKAN PUNSIRI 6530200703

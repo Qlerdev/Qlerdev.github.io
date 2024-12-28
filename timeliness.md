@@ -1,4 +1,5 @@
-# Timeliness
+#
+ Timeliness
 ![](img/360_F_270199026_F2LPjwdoDWTbGiP52dDRWWFa5WBqkPlp.jpg)
 
   - **DQLabs**            : Timeliness indicates how fresh the data is. Data timeliness ensures that data is fresh and up-to-date and it is available when                                        needed. For industries like finance, timeliness is very important, as the stock price changes in real-time.

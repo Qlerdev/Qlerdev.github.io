@@ -12,6 +12,7 @@
 
 [บรรยากาศการทำกิจกรรม](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
 
+[![Video](img/boardgame/bgvideo1.png)](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
 
 ### เพื่อนร่วมอุดมการณ์
 

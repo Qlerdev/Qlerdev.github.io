@@ -1,5 +1,4 @@
 # Data Quality
-===
 ## Timeliness
 ---
 ![](img/360_F_270199026_F2LPjwdoDWTbGiP52dDRWWFa5WBqkPlp.jpg)

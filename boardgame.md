@@ -1,7 +1,7 @@
 # Board Game 
 ---
 
-[Google Drive](https://drive.google.com/drive/folders/1j_I0HOPhD_l8EV1F_v9PA3OFqQt7RYgT)
+
 
 เพื่อนรวมอุดมการณ์ 
 
@@ -12,4 +12,6 @@
 3. [Kasidid Yookong](https://kasidid-y.github.io/)
 
 4. [Suphanimit Nilchawee](https://6530200517.github.io/)
+
+[Google Drive](https://drive.google.com/drive/folders/1j_I0HOPhD_l8EV1F_v9PA3OFqQt7RYgT)
 

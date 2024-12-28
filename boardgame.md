@@ -1,9 +1,11 @@
 # Board Game 
+## Kraprao Mhookrob Kaidao Group
+
 ---
 
 
 
-เพื่อนรวมอุดมการณ์ 
+เพื่อนร่วมอุดมการณ์ 
 
 1. [Amarin Yaowarod](https://6530200908.github.io/)
 

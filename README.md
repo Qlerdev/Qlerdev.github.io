@@ -2,7 +2,7 @@
 
 [😎🕐TIMELINESS😎🕙](https://qlerdev.github.io/timeliness)
 
-[💣🎮BOARD GAME🕹♥](https://qlerdev.github.io/boardgame)
+[💣🎮BOARD GAME🎮💣](https://qlerdev.github.io/boardgame)
 # Qlerdev.github.io
 
 ![alt text](/img/IMG_20241024_214443.jpg)

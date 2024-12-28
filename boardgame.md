@@ -13,11 +13,9 @@
 
 2. [Panupong Thondcherd](https://6530200339.github.io/)
 
-3. [Punnakan Punsiri(Me)](https://qlerdev.github.io/)
+3. [Kasidid Yookong](https://kasidid-y.github.io/)
 
-4. [Kasidid Yookong](https://kasidid-y.github.io/)
-
-5. [Suphanimit Nilchawee](https://6530200517.github.io/)
+4. [Suphanimit Nilchawee](https://6530200517.github.io/)
 
 [ภาพและวิดีโอ](https://drive.google.com/drive/folders/1j_I0HOPhD_l8EV1F_v9PA3OFqQt7RYgT)
 

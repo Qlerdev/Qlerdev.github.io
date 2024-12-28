@@ -10,9 +10,9 @@
 
 การถ่ายทำกิจกรรมดังกล่าวจัดขึ้นเมื่อวันที่ 21 ธันวาคม 2566 เวลาประมาณ 19.00 น. ณ บริเวณ ตึก 9 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา
 
-[บรรยากาศการทำกิจกรรม](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
+**บรรยากาศการทำกิจกรรม**
 
-[![Video](img/boardgame/bgvideo1.png)](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
+[![Video](img/boardgame/bgvideo1.jpg)](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
 
 ### เพื่อนร่วมอุดมการณ์
 

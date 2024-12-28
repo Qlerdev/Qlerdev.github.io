@@ -1,7 +1,6 @@
 # Timeliness
 ![](img/360_F_270199026_F2LPjwdoDWTbGiP52dDRWWFa5WBqkPlp.jpg)
 
-[https://www.dqlabs.ai/blog/what-is-data-quality-management]
   - **DQLabs**            : Timeliness indicates how fresh the data is. Data timeliness ensures that data is fresh and up-to-date and it is available when                                        needed. For industries like finance, timeliness is very important, as the stock price changes in real-time.
   - **ChatGPT**               : หมายถึงความตรงเวลาของข้อมูล (Data) ที่จะต้องสามารถใช้งานได้ในเวลาที่เหมาะสมและจำเป็นสำหรับการตัดสินใจหรือการดำเนินการใดๆ โดยเฉพาะในกรณีที่ข้อมูลที่ล่าช้าอาจส่ง 
                                 ผลต่อการตัดสินใจหรือการดำเนินงานที่ต้องการความแม่นยำและเร่งด่วน

@@ -13,7 +13,7 @@
 
 2. [Panupong Thondcherd](https://6530200339.github.io/)
 
-3. [Punnakan Punsiri](https://qlerdev.github.io/)
+3. [Punnakan Punsiri(Me)](https://qlerdev.github.io/)
 
 4. [Kasidid Yookong](https://kasidid-y.github.io/)
 

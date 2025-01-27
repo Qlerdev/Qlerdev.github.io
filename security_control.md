@@ -1,2 +1,2 @@
 # Security Operation  
-## Physical Control 
+## ![](img/20676.jpg)

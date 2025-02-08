@@ -1,4 +1,5 @@
-# 2.1.1 Password Security
+# Security Requirement
+## 2.1.1 Password Security
 ![](img/password.jpg)
 
 **Details** : Verify that user set passwords are at least 12 characters in length (after multiple spaces are combined). 

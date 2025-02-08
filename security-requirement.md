@@ -1,5 +1,5 @@
 # 2.1.1 Password Security
-details : Verify that user set passwords are at least 12 characters in length (after multiple spaces are combined). 
+Details : Verify that user set passwords are at least 12 characters in length (after multiple spaces are combined). 
 
 ChatGPT : หมายความว่า ตรวจสอบให้แน่ใจว่ารหัสผ่านที่ผู้ใช้ตั้งมีความยาวอย่างน้อย 12 ตัวอักษร หลังจากที่มีการรวมช่องว่างหลายช่องเข้าด้วยกัน
 
